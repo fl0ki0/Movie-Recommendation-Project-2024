@@ -29,6 +29,6 @@ The dataset includes the following CSV files:
 - `genome_scores.csv`: Scores for movie genomes.
 - `genome_tags.csv`: Tags for movie genomes.
 
-##Results
+## Results
 The model's performance is evaluated using RMSE (Root Mean Squared Error) through cross-validation. The optimal hyperparameters are determined using GridSearchCV.
 This will generate a submission.csv file containing the predicted ratings for the test dataset.
