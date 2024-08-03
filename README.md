@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Movie Recommendation Project 2024** is a data science project that involves building a movie recommendation system using the Surprise library. The project is part of the ALX Movie Recommendation Competition 2024. The goal is to develop a model that predicts user ratings for movies based on historical data.
+The **Movie Recommendation Project 2024** is a data science project that involves building a movie recommendation system using the Surprise library. The project is part of the Movie Recommendation Competition 2024. The goal is to develop a model that predicts user ratings for movies based on historical data.
 
 ## Table of Contents
 
