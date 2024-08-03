@@ -8,11 +8,8 @@ The **Movie Recommendation Project 2024** is a data science project that involve
 
 - [Project Description](#project-description)
 - [Data Description](#data-description)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+  
 
 ## Project Description
 
@@ -32,8 +29,6 @@ The dataset includes the following CSV files:
 - `genome_scores.csv`: Scores for movie genomes.
 - `genome_tags.csv`: Tags for movie genomes.
 
-This will generate a submission.csv file containing the predicted ratings for the test dataset.
-
 ##Results
 The model's performance is evaluated using RMSE (Root Mean Squared Error) through cross-validation. The optimal hyperparameters are determined using GridSearchCV.
-
+This will generate a submission.csv file containing the predicted ratings for the test dataset.
