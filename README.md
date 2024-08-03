@@ -33,7 +33,7 @@ The data for the MovieLens dataset is maintained by the GroupLens research group
 
 **Supplied Files**
 
-- **genome_scores.csv** - A score mapping the strength between movies and tag-related properties. [Read more here](#)
+- **genome_scores.csv** - A score mapping the strength between movies and tag-related properties. 
 - **genome_tags.csv** - User-assigned tags for genome-related scores.
 - **imdb_data.csv** - Additional movie metadata scraped from IMDB using the `links.csv` file.
 - **links.csv** - Provides a mapping between a MovieLens ID and associated IMDB and TMDB IDs.
@@ -47,4 +47,5 @@ The data for the MovieLens dataset is maintained by the GroupLens research group
 
 ## Results
 The model's performance is evaluated using RMSE (Root Mean Squared Error) through cross-validation. The optimal hyperparameters are determined using GridSearchCV.
+
 This will generate a submission.csv file containing the predicted ratings for the test dataset.
